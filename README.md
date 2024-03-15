@@ -36,7 +36,7 @@ Como se podrá comprobar a continuación la rama que más llama mi atención del
 
 ## ILUSTRACIÓN
 
-![ilustracion](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/ilustración%20portfolio.png)
+![ilustracion](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/ilustracion%20portfolio.png)
 
 ## FOTOGRAFÍA
 
