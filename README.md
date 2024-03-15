@@ -8,10 +8,37 @@ Pero como primer paso aquí muestro mi curriculum:
 
 ![curriculum](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/curriculum.png)
 
-## Proyectos
+## PROYECTOS
 
 Como se podrá comprobar a continuación la rama que más llama mi atención del diseño gráfico es la editorial, pero en todas soy capaz de trabajar y llevar a cabo proyectos de diversas envergaduras.
 
-### PIXEL
+### Pixel
 
 ![pixel](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/pixel%20portfolio.png)
+
+### Colección de libros "Clásicos del misterio"
+
+![libros](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/libros%20portfolio.png)
+
+### Maravedí
+
+![maravedí](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/botellas%20portfolio.png)
+
+### La Lista
+
+![lista](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/la%20lista%20portfolio.png)
+
+>ADEMÁS
+>
+>También me gusta mucho la ilustración y la fotografía, de las cuales veremos algunos ejemplos a continuación.
+
+
+## ILUSTRACIÓN
+
+![ilustraciones](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/ilustración%20portfolio.png)
+
+## FOTOGRAFÍA
+
+![fotos](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/fotografia%20portfolio.png)
+
+
