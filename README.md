@@ -6,7 +6,7 @@ En esta página web mostraré imágenes de algunos de mis proyectos realizados y
 
 Pero como primer paso aquí muestro mi curriculum:
 
-![curriculum](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/curriculum.png)
+![curriculum](/main/recursos/curriculum.png)
 
 ## PROYECTOS
 
