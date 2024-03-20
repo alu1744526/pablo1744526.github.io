@@ -14,19 +14,19 @@ Como se podrá comprobar a continuación la rama que más llama mi atención del
 
 ### Pixel
 
-![pixel](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/pixel%20portfolio.png)
+![pixel](recursos/pixel%20portfolio.png)
 
 ### Colección de libros "Clásicos del misterio"
 
-![libros](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/libros%20portfolio.png)
+![libros](recursos/libros%20portfolio.png)
 
 ### Maravedí
 
-![maravedí](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/botellas%20portfolio.png)
+![maravedí](recursos/botellas%20portfolio.png)
 
 ### La Lista
 
-![lista](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/la%20lista%20portfolio.png)
+![lista](recursos/la%20lista%20portfolio.png)
 
 >ADEMÁS
 >
@@ -36,10 +36,10 @@ Como se podrá comprobar a continuación la rama que más llama mi atención del
 
 ## ILUSTRACIÓN
 
-![ilustracion](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/ilustracion%20portfolio.png)
+![ilustracion](recursos/ilustracion%20portfolio.png)
 
 ## FOTOGRAFÍA
 
-![fotos](https://github.com/alu1744526/pablo1744526.github.io/blob/main/recursos/fotografia%20portfolio.png)
+![fotos](recursos/fotografia%20portfolio.png)
 
 
