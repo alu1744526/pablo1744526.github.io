@@ -6,7 +6,7 @@ En esta página web mostraré imágenes de algunos de mis proyectos realizados y
 
 Pero como primer paso aquí muestro mi curriculum:
 
-![curriculum](main/recursos/curriculum.png)
+![curriculum](recursos/curriculum.png)
 
 ## PROYECTOS
 
